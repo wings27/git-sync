@@ -1,0 +1,15 @@
+def:
+  mydir: UserProfile
+  someXMLFile: UserProfile\.m2\settings.xml
+  evenWithSpace: git dir\bash.vbs
+
+mapping:
+  home:
+    mydir: C:\Users\wings
+    someXMLFile: C:\Users\wings\.m2\settings.xml
+    evenWithSpace: C:\Program Files (x86)\Git\Git Bash.vbs
+  work:
+    mydir: C:\Users\wenqiushi
+    someXMLFile: C:\Users\wenqiushi\.m2\settings.xml
+    # use comment to disable sync:
+    # evenWithSpace: D:\Git\Git Bash.vbs
